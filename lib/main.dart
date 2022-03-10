@@ -18,7 +18,8 @@ class MyApp extends StatelessWidget {
         child: Row(
           children: const [
             Text("My name is Nguyen Minh Tri"),
-            Text("My name is Phan Nhu Hai Luu")
+            Text("My name is Phan Nhu Hai Luu"),
+            Text("Nguyen Chi Dat is my name")
           ],
         ),
       ),
