@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       ),
       body: Center(
         child: Row(
-          children: const [Text("My name is Nguyen Minh Tri")],
+          children: const [Text("My name is Nguyen Minh Tri 2")],
         ),
       ),
     );
